@@ -1,4 +1,4 @@
-# Connecteam-style Attendance Demo (Fixed Export)
+# Connecteam-style Attendance 
 
 ## Run locally
 npm i
@@ -10,3 +10,6 @@ npm run build
 ## Deploy to Netlify
 - Build command: npm run build
 - Publish directory: dist
+
+
+Live Link: https://attendance67.netlify.app/
